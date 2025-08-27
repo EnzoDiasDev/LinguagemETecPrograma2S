@@ -11,7 +11,7 @@ main(){
 	
 	printf("Digite outro número: ");
 	scanf("%d", &n2);
-	
+	 
 	printf("Digite mais um número: ");
 	scanf("%d", &n3);
 
